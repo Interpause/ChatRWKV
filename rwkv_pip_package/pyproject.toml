@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rwkv"
-version = "0.7.2"
+version = "0.7.3"
 authors = ["Bo PENG"]
 description = "The RWKV Language Model"
 readme = "README.md"
